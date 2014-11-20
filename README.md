@@ -18,6 +18,14 @@
  	* Rが最上位ビット，Bが最下位ビットの順で格納されます
  	* 画像の左上から右下へ向かう順で画素情報が保存されます
 
+## 動作環境・開発環境
+
+Windows環境のみで動作します。
+
+* Visual Studio 2013
+* C#(.NET Framework 4.5)
+* Windows Form Application
+
 ## License
 
 * MIT License
