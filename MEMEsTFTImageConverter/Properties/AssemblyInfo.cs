@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MEMEsTFTImageConverter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Hayato OKUMOTO")]
 [assembly: AssemblyProduct("MEMEsTFTImageConverter")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright © 2014 Hayato OKUMOTO, jo-ken.info")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
